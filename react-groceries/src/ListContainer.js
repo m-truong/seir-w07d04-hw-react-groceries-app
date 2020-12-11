@@ -62,7 +62,9 @@ const ListContainer = (props) => {
                 <ListItem data={currGrocery} />
                 )
             })} 
+            
             <TotalPrice totalPrice={totalPrice}/>
+
         </div>
     )
 }
