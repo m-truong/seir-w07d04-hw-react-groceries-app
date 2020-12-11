@@ -1,8 +1,8 @@
 import React from 'react'
 
-const TotalPrice = (props) => {
+const TotalPrice = ({totalPrice}) => {
     return (
-        <p>Total </p>
+    <p className="spacing">Total ${totalPrice}</p>
     )
 }
 

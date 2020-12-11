@@ -8,7 +8,7 @@ const GroceriesContainer = (props) => {
         <div>
             <Title />
             <ListContainer /> 
-            <TotalPrice />
+            {/* <TotalPrice /> */}
         </div>
     )
 }

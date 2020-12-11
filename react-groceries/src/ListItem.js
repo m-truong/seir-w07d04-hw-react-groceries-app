@@ -6,7 +6,7 @@ const ListItem = (props) => {
 
     return (
         <div> 
-            <p>{item}    {brand}   {price}   {quantity}</p>
+            <p> {item}    {brand}   {price}   {quantity} </p>
         </div>
     )
 }
