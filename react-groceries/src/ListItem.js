@@ -2,11 +2,11 @@ import React from 'react'
 
 const ListItem = (props) => {
 
-    const {item, brand, price, quantity, isPurchased} = props.data;
+    const {item, brand, quantity, price, isPurchased} = props.data;
 
     return (
         <div> 
-            <p> {item}    {brand}   {price}   {quantity} </p>
+            <p> {item}  -  {brand}   {quantity}   {price} </p>
         </div>
     )
 }

@@ -6,42 +6,42 @@ const groceries = [{
         item: 'Flour',
         brand: 'Golden Star',
         price: 12,
-        quantity: '1 lb',
+        quantity: '1-lb',
         isPurchased: true
     },
     {
         item: 'Salt',
         brand: 'Diamond',
         price: 2,
-        quantity: '1 lb',
+        quantity: '1-lb',
         isPurchased: true
     },
     {
         item: 'Eggs',
         brand: 'Maple Orchards',
         price: 3,
-        quantity: '1 dz',
+        quantity: '1-dz',
         isPurchased: true
     },
     {
         item: 'Milk',
         brand: 'Horizon Organic',
         price: 4,
-        quantity: '1 gal',
+        quantity: '1-gal',
         isPurchased: true
     },
     {
         item: 'Chocolate Chips',
         brand: 'Hershey\'s',
         price: 6,
-        quantity: '.5 lb',
+        quantity: '.5-lb',
         isPurchased: true
     },
     {
         item: 'Butter',
         brand: 'Tillamook',
         price: 2,
-        quantity: '1 stick',
+        quantity: '1-stick',
         isPurchased: true
     }
 ]
